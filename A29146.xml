@@ -1,0 +1,721 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bradshaw's ghost, a poem, or, A dialogue between John Bradshaw, ferry-man Charon, Oliver Cromwel, Francis Ravilliack, and Ignatius Loyola, 1660</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29146</idno>
+            <idno type="STC">Wing B4163</idno>
+            <idno type="STC">ESTC R10343</idno>
+            <idno type="EEBO-CITATION">12713911</idno>
+            <idno type="OCLC">ocm 12713911</idno>
+            <idno type="VID">66151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 680:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bradshaw's ghost, a poem, or, A dialogue between John Bradshaw, ferry-man Charon, Oliver Cromwel, Francis Ravilliack, and Ignatius Loyola, 1660</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ignatius, --  of Loyola, Saint, 1491-1556.</term>
+               <term>Bradshaw, John, 1602-1659.</term>
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Ravaillac, François, 1578-1610.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:66151:1"/>
+            <pb n="1" facs="tcp:66151:1" rendition="simple:additions"/>
+            <head>BRADSHAW'S GHOST; A POEM: OR, A Dialogue between <hi>John Bradſhaw,</hi> Ferry-man <hi>Charon, Oliver Cromwel, Francis Ravilliack,</hi> and <hi>Ignatius Loyola.</hi> 1660.</head>
+            <sp>
+               <speaker>Bradſh.</speaker>
+               <l>COME, <hi>Charon,</hi> come — <hi>Cha.</hi> VVhat unexpected ſhade</l>
+               <l>Is this that thus imploreth <hi>Charon</hi>'s aid?</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>'Tis I. <hi>Char.</hi> Raven, I know that tone,</l>
+               <l>That durſt to boad deſtruction to a Throne:</l>
+               <l>Thy guilt's too heavy, and in vain implores</l>
+               <l>A Scullers help; your Lordſhip ſhould have Oars.</l>
+               <l>Lay down your Burthen, then I'le carry you;</l>
+               <l>I cannot waft <hi>Bradſhaw</hi> and a Murtherer too.</l>
+               <l>Have you drunk <hi>Lethe</hi> yet that you'ave forgot</l>
+               <l>
+                  <hi>Noll</hi> lately paſs'd; alas, he broke my Boat:</l>
+               <l>Beſides the Foord is ſhallow. <hi>Brad.</hi> Never think</l>
+               <l>Of that, your danger then is leſs to ſink.</l>
+               <l>'Tis ſtrange, ſhall I water want? It cannot be:</l>
+               <l>I have ſpilt Blood enough to make a Sea.</l>
+               <l>By all that's bad, we'le ſwim it o're: then come,</l>
+               <l>My Keel ſhall plow my <hi>Mare Mortuum.</hi>
+               </l>
+               <l>Let but the winds be good, and we'le prevail,</l>
+               <l>Curſes and Sighs ſhall ſwell the labouring Sail.</l>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <l>Firſt, let met know what haſte hath brought thee here:</l>
+               <l>Didſt thou ride Poſt upon the<note n="*" place="margin">Tyburn,</note> three-leg'd Mare?</l>
+               <l>Or did thy Murthering Soul unto this Foord</l>
+               <l>Fly from the point of ſome Revenging Sword?</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>I Murthered not my ſelf; and none but I</l>
+               <l>Dur<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> attempt that venturous Act, to vie</l>
+               <l>VVith Hell for th' <hi>Ruff,</hi> and double o're again</l>
+               <l>The ſeventy ſeven-fold Puniſhment of <hi>Cain.</hi>
+               </l>
+               <l>My P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ow was my block, and Swans did bring</l>
+               <l>My Scarlet Soul upon their milky wing.</l>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <l>'Tis ſtrange; yea, and unnatural, to ſee</l>
+               <l>That ſuch a Rogue ſhould dye, and naturally:</l>
+               <l>Sure millions would have Raviſhed thy Breath,</l>
+               <l>But that none durſt attempt that deed but Death.</l>
+               <l>For Juſtice could not be Reveng'd on you,</l>
+               <l>Unleſs <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e could kill Soul and Body too.</l>
+               <l>But why do you come here? get you to Hell</l>
+               <l>For to Read Lectures unto <hi>Machiavel:</hi>
+               </l>
+               <l>Your <hi>Borgia</hi> could do that, and I have Reaſon</l>
+               <l>To keep you back; <hi>Pluto</hi> would think it Treaſon.</l>
+               <l>You and your Partner ſure will pluck him down,</l>
+               <l>Hell is not dark enough to hide his Crown.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>
+                  <hi>Charon,</hi> don't fear, I'le warrant we'le agree,</l>
+               <l>For Hell and I were ne're at enmity.</l>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <l>Give me your Naulum, then take here this cup</l>
+               <l>Of <hi>Lethe,</hi> think 'tis Blood, and ſwill it up.—</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>That won't waſh Guilt, 'tis as good let it alone:</l>
+               <l>And as for Money, I will give you none. —</l>
+               <l>I've a Commiſſion, mind from whom I am ſent;</l>
+               <l>You're Ferry-man unto the Parliament. —</l>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <l>
+                  <hi>Lambert</hi> hath ſhut that Door, and as for me,</l>
+               <l>You ſhall not enter here without a Fee.</l>
+               <l>Should I waft Round-heads o're for nought, I find,</l>
+               <l>C<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>elion-like, my Sails muſt live by wind.</l>
+               <l>Had you the Biſhops Lands, and could not bring</l>
+               <l>One Tithe to me? at leaſt an Offering.</l>
+               <l>You ſhall not o're on tick, for pay you muſt;</l>
+               <l>VVhen Infidels do meet, ne're talk of truſt.</l>
+            </sp>
+            <sp>
+               <speaker>Bradſh.</speaker>
+               <l>There's Six-pence. <hi>Cha.</hi> What's the Motto? O, 'tis thus;</l>
+               <l>
+                  <hi>The Common-wealth of</hi> England; <hi>God with us.</hi>
+               </l>
+               <l>You VVorſhip Coin, your Golden Calves, I ſee,</l>
+               <l>Have got a pretty ſtamp, a Deity.</l>
+               <l>But prithee, <hi>Bradſhaw,</hi> now thou art come, lets know</l>
+               <l>How thou and Pride did chance to fall ſo low.</l>
+               <l>You went for Saints on Earth, were <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not far</l>
+               <l>More fit for you i'th' Heavens to ſhine a Star?</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>My Brother Pride his thoughts on Hell did fix,</l>
+               <l>For to brew merry Beer and Ale with <hi>Styx.</hi>
+               </l>
+               <l>His Traſh would not vent there; the Angels they,</l>
+               <l>He thought drank nothing but <hi>Ambroſia:</hi>
+               </l>
+               <l>And ſomewhat elſe beſides increas'd his Fears,</l>
+               <l>There was a grudge betwixt him and the Bears.</l>
+               <l>And <hi>Charon,</hi> as to me your Queſtions are</l>
+               <l>Moſt Fooliſh; know you not that <hi>Charles</hi> is there?</l>
+               <l>To drive black <hi>Pluto</hi>'s Coach I'de rather dain,</l>
+               <l>Than to be VVaggoner to <hi>Charles</hi>'s wain.</l>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <l>VVere you out, you ſhou'd ſcarce come in again:</l>
+               <l>This Ferry-boat was never made for Man.</l>
+               <l>But you may go 'cauſe you're <hi>Noli</hi>'s ſtalking-horſe,</l>
+               <l>Rather for Beaſt, or ſomething that is worſe.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>More Aſs I; but I am rid on't I ſuppoſe,</l>
+               <l>And ſhall be even with him in ſpight of's Noſe.</l>
+               <l>I muſt confeſs my Purple Robes alone</l>
+               <l>Did ſerve to make a Foot-ſtall for his Throne.</l>
+               <l>Nought could be done, I ſay't to my Diſgrace,</l>
+               <l>By's Iron-ſides, but for my brazen face:</l>
+               <l>I ſcorn'd to pluck off Hat to Majeſty<g ref="char:punc">▪</g>
+               </l>
+               <l>Although I made him pluck off's Head to me:</l>
+               <l>Though he amazed, it ſtir'd not me; his Breath</l>
+               <l>Cou'd not move me, although it frightned Death.</l>
+               <pb n="2" facs="tcp:66151:2" rendition="simple:additions"/>
+               <l>My Perjur'd Soul cou'd eaſily diſpence</l>
+               <l>To cut a way for <hi>Noll</hi> through Innocence.</l>
+               <l>Yet enter'd not I on the Mine before</l>
+               <l>I thought my ſelf ſecure of half the Ore:</l>
+               <l>I thought my gains were good, the ſtakes being down;</l>
+               <l>I quickly made a Foot-ball of the Crown:</l>
+               <l>But <hi>Noll</hi> trip'd up my heels, that ſurly Soul;</l>
+               <l>And I was glad at laſt I eſcap'd the Goal.</l>
+               <l>He got the gain, and loſt his Soul and all,</l>
+               <l>That<note n="*" place="margin">Nolls Wife.</note> 
+                  <hi>Jone</hi> might ſell her Kitchen-ſtuff at <hi>White-hall.</hi>
+               </l>
+               <l>Here's Land: what Clouds are theſe? what, does Hell turn</l>
+               <l>Out all her Lights? 'cauſe ſhe for me might mourn.</l>
+               <l>Has <hi>Pluto</hi> Tinder-boxes? <hi>Char.</hi> No. <hi>Brad.</hi> What then?</l>
+               <l>Hath <hi>Noll</hi> a Noſe will light thoſe Flames agen?</l>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <l>Beware, leſt hood-wink'd thus, you ſtray go on</l>
+               <l>Cloſe by <hi>Coetus,</hi> then by <hi>Acheron.</hi>
+               </l>
+               <l>
+                  <hi>Cerberus</hi> longs to ſee you, he'l afford</l>
+               <l>Three Salutations to you in one word.</l>
+               <l>Fling him a Heart, for there belongs a fee</l>
+               <l>To the Door-keeper as well as unto me.</l>
+            </sp>
+            <sp>
+               <speaker>Bradſh.</speaker>
+               <l>Thanks for this needleſs Counſel: But ne'r tell</l>
+               <l>Me that I ere was out of the way to Hell.</l>
+               <l>
+                  <hi>Cromwel</hi> the Great being Link-boy, ſure he knows</l>
+               <l>The way, if not, we'l follow both his Noſe.</l>
+               <l>Farewel. But now I ſtray, the darkneſs is</l>
+               <l>So great, I ſhall not find the way to miſs:</l>
+               <l>I ne'r walk'd wrong, though I am ne'r right, for where</l>
+               <l>So e're I am, Hell properly is there.</l>
+               <l>But ſtay, what's that? why ſhould I be afraid</l>
+               <l>Of what is but the Shadow of a Shade?</l>
+               <l>Methinks I hear a voice, which crys, ſtand back:</l>
+               <l>Why, who art thou? <hi>Rav.</hi> I am <hi>Ravilliack.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>What empty thing art thou? As for my part,</l>
+               <l>I am as th' Soul of th' Rump ſhou'd be a fart</l>
+               <l>Lately let, you ſhortly ſhall have more;</l>
+               <l>
+                  <hi>Lambert</hi> hath kick'd their Arſe-ſhips out of door.</l>
+            </sp>
+            <sp>
+               <speaker>Rav.</speaker>
+               <l>Welcom, moſt Reverend ſhade; then you art ſent</l>
+               <l>With an Embaſſage from the Parliament.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>No: for Infernal Aid we always were</l>
+               <l>Sure to have that as well in Peace as War.</l>
+               <l>Your Counſel needleſs was, for we were ſo evil,</l>
+               <l>None there but cou'd be Tutor to a Devil.</l>
+               <l>I'me come to commence Villain, ſomething more;</l>
+               <l>I did perform my Acts on Earth before:</l>
+               <l>The World and Hell my Merits know, and to</l>
+               <l>Be ſhort, <hi>Ravilliack,</hi> I'le take place of you.</l>
+            </sp>
+            <sp>
+               <speaker>Rav.</speaker>
+               <l>Pardon, bold Shade, if I deſire to know</l>
+               <l>If ever you've deſerv'd that place or no.</l>
+               <l>Firſt, we'l diſpute, what do you think of that?</l>
+               <l>And we'l chooſe <hi>Pluto</hi> for to moderate.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>Go, Pupil, undergraduate Friend; tuſh he</l>
+               <l>That well can Judge, muſt more than Devil be.</l>
+               <l>If that we muſt, let's be try'd by ſuch things</l>
+               <l>As well do know what 'tis to Murther Kings.</l>
+               <l>Such ſhould be Judges for us: Ay, ſuch ſhou'd,</l>
+               <l>Whoſe guilty Souls ſpeak nothing under Blood.</l>
+               <l>Fiends of a double die, ſuch as do ſcorn</l>
+               <l>To ſwear, unleſs they're ſure to be forſworn:</l>
+               <l>Nor for Secluded Members they are ſent,</l>
+               <l>For Judges we'l have an Old Parliament;</l>
+               <l>There's Members here enough, why do I ſtick?</l>
+               <l>Enough to make a Body Politick.</l>
+            </sp>
+            <sp>
+               <speaker>Rav.</speaker>
+               <l>Pretty State-Monſter, a fine hoddy doddy,</l>
+               <l>One, as they ſay, that is more Arſe than Body.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>Diſdain 'um not, you cannot parallel</l>
+               <l>Such true falſe-hearted Devils not in Hell.</l>
+               <l>There was no Reaſon for't; though <hi>Lambert</hi> bore</l>
+               <l>A ſpight to th' Houſe to turn it out o'th' door:</l>
+               <l>To me it always ſeem'd exceeding fit,</l>
+               <l>What Members, pray you, 'ſides the Rump ſhall ſit?</l>
+               <l>Yet 'cauſe you ſtand upon't, I'le ne'r abuſe</l>
+               <l>Your Priviledge: <hi>Ravilliack,</hi> you may chuſe.</l>
+               <l>I and my Partners ſhall not value you,</l>
+               <l>With <hi>Machiavel,</hi> and all <hi>Loyola</hi>'s crew.</l>
+               <l>Farewel, prepare againſt the Judges Call,</l>
+               <l>For I muſt ſpeak a word or two with <hi>Noll.</hi>
+               </l>
+               <l>Lye, Swear, Forſwear, all this I'le grant to you:</l>
+               <l>Nay, and your Mental Reſervations too.</l>
+               <l>You ſhall Condemn your ſelves, you'l ſee in fine,</l>
+               <l>And <hi>Bellarmine</hi> ſhall confute <hi>Bellarmine.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <l>VVelcom to mourning; welcom, Shade in brief,</l>
+               <l>You're very welcom to the Joys of Grief.</l>
+               <l>I pray do you no Letters with you carry?</l>
+               <l>Nor from ſoft<note n="*" place="margin">2 of <hi>Olivers</hi> Sons.</note> 
+                  <hi>Richard,</hi> nor from ſimple <hi>Harry.</hi>
+               </l>
+               <l>Me-thinks 'tis very ſtrange, that<note n="*" place="margin">Olivers Secr.</note> 
+                  <hi>Thurlow</hi>'s grown</l>
+               <l>So proud, he will not write a word for<note n="*" place="margin">Olivers Wife.</note> 
+                  <hi>Jone.</hi>
+               </l>
+               <l>Poor wretch, her Breeding ne'r taught her a word,</l>
+               <l>She knew no Character but that o'th' Sword;</l>
+               <l>Though <hi>Lambert</hi>'s VVife and I to th' cotquean</l>
+               <l>Did read the Horn-book o're and o're agen.</l>
+               <l>But waving <hi>Puſſes</hi> Majeſty, pray how</l>
+               <l>Doth Mice and Rats in the Houſe of Commons do?</l>
+               <l>Their leaving of the Houſe, makes me to think</l>
+               <l>That the Foundation e're belong will ſink.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>My heart is almoſt broke, you can't believe</l>
+               <l>How I am vex'd: I made no more to grieve,</l>
+               <l>Now all things do concur to miſery,</l>
+               <l>All becauſe you and I did diſagree.</l>
+               <l>Fools that we were, to mind we did not call,</l>
+               <l>Satan divided againſt himſelf, muſt fall.</l>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <l>Tuſh, that is onely Scripture; why, I ſay</l>
+               <l>That all the Bible is Apocrypha.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>VVhat if we went for Saints? 'tis all one thing</l>
+               <l>For to abuſe the Scripture and the King.</l>
+               <l>Nay, our Thanksgivings too were always leaſt,</l>
+               <l>VVhen ſuch long Graces we had at a Feaſt,</l>
+               <l>Before you wou'd kill, you'd have <hi>Peters</hi> Call,</l>
+               <l>And make your Enemy a Mock-Funeral.</l>
+               <l>He laughs your Army's Sanctified VVord;</l>
+               <l>His VVit did lend an edge unto your Sword.</l>
+               <l>Nay, and the Devil doth on Scripture call,</l>
+               <l>Then when he would be Devil moſt of all.</l>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <l>'Tis very true. But prethee let me know</l>
+               <l>A brief Relation, how all things do go.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>VVhy <hi>Noll,</hi> 'twould make a heart of ſtone Relent,</l>
+               <l>A <hi>Booth</hi> does dare the Houſe of Parliament.</l>
+               <l>They talk of Kings: Nay, which is worſe, I do</l>
+               <l>Fear all the Nation will turn Honeſt too.</l>
+               <l>One true Religion hies unto its Mother;</l>
+               <l>The Church and Taxes do avert another.</l>
+               <l>One thing or other makes 'um all to cry</l>
+               <l>VVe'l be Apoſtates to Apoſtacy.</l>
+               <l>Things are ſo bad, they'd all be good, wer't not</l>
+               <l>For theſe three Fiends, <hi>Vain, Haſlerig,</hi> and <hi>Scot.</hi>
+               </l>
+               <l>Dippers and Quakers they their Lepers be;</l>
+               <l>All in the Nations Diſcord do agree.</l>
+               <l>
+                  <hi>Vain</hi> was Anointed Rogue, though ſo to do,</l>
+               <l>VVere for to loſe the Oyl and Labour too.</l>
+               <l>
+                  <hi>Noll,</hi> why were you not King? when you did ſee</l>
+               <l>A <hi>Pilate</hi> was, you well might <hi>Herod</hi> be.</l>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <l>VVhy, I was more; the truth to lay you down,</l>
+               <l>No Hat but mine ith' Kingdom wore a Crown.</l>
+               <l>I onely Lords created, truly ſeeing</l>
+               <l>Me out of nothing leap into a Being.</l>
+               <l>I made 'um better than my ſelf, Earls then,</l>
+               <l>It was below 'um to be Gentlemen.</l>
+               <l>VVhat odds have Awls and Swords when they go to't?</l>
+               <l>I vampt the old worn-out <hi>Hewſon</hi> Lord to boot.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>You <hi>Hewſon'd</hi> it, 'tis twenty now to ten,</l>
+               <l>But that his Lordſhip's at his Laſt agen.</l>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <l>But heark, now Quakeriſm begins to down:</l>
+               <l>Think you that Puritans will put on Lawn?</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>No; white is Innocent: nay, I'le tell you what,</l>
+               <l>The VVhore of <hi>Babylon's</hi> Smock is made of that.</l>
+               <l>
+                  <hi>Peters</hi> to try this <hi>Turkiſh</hi> point, thought meet</l>
+               <l>A while for to do penance in a ſheet.</l>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <l>That was a merry Rogue, and truth to tell,</l>
+               <l>I lik'd his way of Laughing Men to Hell:</l>
+               <l>Dull heavy looks I like not, I proteſt,</l>
+               <l>Except in Quakers, ſuch as are poſſeſt.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>Alas, the Times are Honeſt like to be;</l>
+               <l>Men muſt not wear Cloaks for Piety.</l>
+               <pb n="3" facs="tcp:66151:2" rendition="simple:additions"/>
+               <l>Satan will go no more to Church I fear,</l>
+               <l>If that the Faſhion brings up ſuch lewd ware:</l>
+               <l>To let him have no Pew, it were uncivil;</l>
+               <l>VVhere Surplices are Jerkins, farewel Devil.</l>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <l>In my Time 'twas not ſo; the Clergy-men</l>
+               <l>Had not ſuch plenty ſure of Linnen then.</l>
+               <l>The Biſhops were ſo poor, that they, alack,</l>
+               <l>VVere glad they had a Surplice next their back:</l>
+               <l>I ſtrip'd their Mother Church, and without jeſt,</l>
+               <l>I think that <hi>Scotch-cloth</hi> fits Religion beſt;</l>
+               <l>For pray now, why ſhould not the wear of Cloaks</l>
+               <l>As well fit <hi>John of Styles,</hi> as <hi>John of Nokes?</hi>
+               </l>
+               <l>As for the honeſt <hi>Scotch,</hi> we ne'r ſhall want</l>
+               <l>Their Aid, for they have took the Covenant:</l>
+               <l>'Gainſt all that's good, they are quite Bankrupt now,</l>
+               <l>They Sold their King and their Religion too.</l>
+               <l>They againſt Nature ſin, ſhould they be good;</l>
+               <l>They're born perfidious, and ſhou'd</l>
+               <l>They Love Religion, then we needs muſt all</l>
+               <l>Confeſs that Act to be unnatural.</l>
+               <l>None yet was ever good, till he forgot,</l>
+               <l>And was aſhamed of the Name of <hi>Scot.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>The Court is ſet, I muſt away, and try</l>
+               <l>To bear away the Prize of Villany.</l>
+               <l>I a Sollicitor want, and may go look</l>
+               <l>For one, unleſs I chance to meet with <hi>Cook.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <l>Go on and proſper; as for th' other, he</l>
+               <l>Is an honeſt man, if but compar'd to thee:</l>
+               <l>If Murther can add merit to thy Praiſe,</l>
+               <l>The <hi>Elizian</hi> Fields can ne'r ſupply thee Bays.</l>
+               <l>But why talk I of Bays? I there did Flatter,</l>
+               <l>Thy <hi>Symon</hi>'s Neck better becomes a Halter.</l>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <l>
+                  <hi>Ravilliack,</hi> ſpeak, for I will give thee firſt,</l>
+               <l>Or any odds, becauſe thy Cauſe is worſt.</l>
+            </sp>
+            <div type="oration">
+               <head>
+                  <hi>Ravilliack</hi>'s Oration.</head>
+               <sp>
+                  <speaker>Rav.</speaker>
+                  <lg>
+                     <l>Know then, moſt Reverend <hi>Loyola,</hi> I do</l>
+                     <l>My ſelf and cauſe both recommend to you:</l>
+                     <l>VVere I indifferent bad, I'de ne'r engage</l>
+                     <l>Your Devil-ſhip into my Patronage.</l>
+                     <l>This Hand brought <hi>Harry</hi>'s Letter, whoſe ſad date</l>
+                     <l>Ended his days, I was the Poſt of Fate.</l>
+                     <l>He ſcarcely Read a Sentence, I did doom</l>
+                     <l>His Life unto a period ſhould come.</l>
+                     <l>I made the <hi>Flower-de-luce</hi> to bleed, and yield</l>
+                     <l>For to be quarter'd in a bloody Field:</l>
+                     <l>I Murther'd <hi>Harry,</hi> whoſe Auſpicious Birth</l>
+                     <l>Preſag'd a League even 'twixt Heaven and Earth:</l>
+                     <l>And what doth aggravate my buſineſs, I</l>
+                     <l>Did kill Religion out of Piety.</l>
+                     <l>I offer'd up that Sacrifice alone,</l>
+                     <l>None elſe durſt make an Altar of the Throne:</l>
+                     <l>And ſhall I now be brought in Competition</l>
+                     <l>With <hi>Bradſhaw?</hi> Youngeſt Son unto Perdition.</l>
+                     <l>I bath'd my ſelf all over in the Flood;</l>
+                     <l>He onely waſh'd his hand in Royal Blood.</l>
+                  </lg>
+                  <lg>
+                     <l>He thinks one Action will Surname him Great,</l>
+                     <l>When all my Life was a Religious Cheat:</l>
+                     <l>But talk detracts from deeds. Not <hi>Tully</hi>'s wrack</l>
+                     <l>Of words could reach unto <hi>Ravilliack.</hi>
+                     </l>
+                     <l>I'le ſay no more, but keep the place, were it</l>
+                     <l>For nothing but 'cauſe I am a Jeſuit.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="oration">
+               <head>
+                  <hi>Bradſhaw</hi>'s Oration.</head>
+               <sp>
+                  <speaker>Brad.</speaker>
+                  <l>You've ſaid too much, but not enough; go to:</l>
+                  <l>There is not one of th' Rump but's worſe than you.</l>
+                  <l>You kill'd the King of <hi>France,</hi> and then all's ſaid;</l>
+                  <l>I King of <hi>France</hi> and <hi>England</hi> Murthered.</l>
+                  <l>My fault exceeds yours, and more weight doth carry</l>
+                  <l>Than it, by how much <hi>Charles</hi> excedeth <hi>Harry:</hi>
+                  </l>
+                  <l>Yours was Lay-murther. Sacriledge mine. You can't</l>
+                  <l>Like me boaſt: You a King kill'd, I a Saint.</l>
+                  <l>They me ith' Book of Martyrs will Remember,</l>
+                  <l>And as to <hi>Faux,</hi> give a day in <hi>November.</hi>
+                  </l>
+                  <l>Your Murther was Religious; true, and I</l>
+                  <l>Committed too a Pious Villany.</l>
+                  <l>In <hi>Charles</hi> I kill'd the Church, that's more than you;</l>
+                  <l>I Sacrific'd the Prieſt and Temple too:</l>
+                  <l>I made the Cuſhions Blocks: The Butchers wore</l>
+                  <l>The Sleeves that <hi>Canterbury</hi> had before.</l>
+                  <l>I <hi>Capel</hi> ſlew, if they the Saints did track</l>
+                  <l>I ſlew, they'd muſter up an Almanack:</l>
+                  <l>Their Bloods wou'd add new Rubricks, whilſt that they</l>
+                  <l>Bluſh all the Year into one Holy-day.</l>
+                  <l>Nor ſin'd I ſingly, I made hundreds be</l>
+                  <l>Co-partners with me in that Villany.</l>
+                  <l>I made them ſin, in that I made 'um joyn,</l>
+                  <l>So that I challenge all their Sins as mine.</l>
+                  <l>I did Hell far more Service than you can,</l>
+                  <l>'Twas I that favoured the Puritan:</l>
+                  <l>Nay, I did Love the <hi>Scots</hi> and <hi>Quakers</hi> too,</l>
+                  <l>
+                     <hi>Ravilliack, Cook</hi> muſt have the place of you.</l>
+                  <l>You'l not be in my claſs: Nay, all my pack</l>
+                  <l>Of Hell-hounds are above <hi>Ravilliack.</hi>
+                  </l>
+                  <l>Not one of <hi>Charles</hi>'s Silver hairs I ſhed,</l>
+                  <l>In value but might purchaſe <hi>Harry</hi>'s Head.</l>
+                  <l>And does your Dagger think for to out-brave</l>
+                  <l>My Ax? I kill'd, but yet debar'd a Grave:</l>
+                  <l>So that in hindring <hi>Charles</hi> a Tomb-ſtone, I</l>
+                  <l>A Monument built to my own Infamy.</l>
+                  <l>I pluck'd his Statue down; what ſhould I have</l>
+                  <l>For my Deſerts? I Murthered his Grave:</l>
+                  <l>Nor was I this alone content to do,</l>
+                  <l>I made Cloaks Preach him Traytor, Tyrant too:</l>
+                  <l>And made 'um ſwear't, I did ſo watch their waters,</l>
+                  <l>All Treaſon did commit, except the Traytors.</l>
+                  <l>What think you then, that he deſerved hath,</l>
+                  <l>That kill'd both the Defender, and the Faith?</l>
+                  <l>Judge all! and if the place you me deny,</l>
+                  <l>Why then you'r worſer Devils all than I.</l>
+               </sp>
+            </div>
+            <div type="oration">
+               <head>
+                  <hi>Loyola</hi>'s Oration.</head>
+               <sp>
+                  <speaker>Loyola.</speaker>
+                  <l>'Tis bravely ſaid of both: Nor can I tell,</l>
+                  <l>If this Man, or if that Man do excell:</l>
+                  <l>Degrees are wanting due to both to give,</l>
+                  <l>For they muſt be beyond ſuperlative.</l>
+                  <l>They both are Rogues in grain, both dipt in blood</l>
+                  <l>Of Kings — But yet me-thinks I ſhou'd</l>
+                  <l>Give one the place: It grieves me ſore to ſee</l>
+                  <l>The Rump thus baffle my Society.</l>
+                  <l>
+                     <hi>Bradſhaw</hi> did kill a God: My Rogue comes after,</l>
+                  <l>And can amount no higher than Man-ſlaughter.</l>
+                  <l>The thoughts of <hi>Bradſhaw</hi>'s worth doth make me mad,</l>
+                  <l>For's one that hath out-done whatever's bad.</l>
+                  <l>O that I liv'd but again, that I</l>
+                  <l>Might be the Founder of a Rump, and dy!</l>
+                  <l>For their Aſſociation ſcorns to be</l>
+                  <l>Companions with my Society.</l>
+                  <l>Learning is needleſs, they a way have hit,</l>
+                  <l>That makes 'um to be wiſe beyond all wit.</l>
+                  <l>Like Foxes Tayls (I muſt unto you tell)</l>
+                  <l>One Rump doth far a thouſand Heads excell.</l>
+                  <l>They cut Mens throats by Law: Nay, and they do</l>
+                  <l>Make Juſtice guilty of the Murther too.</l>
+                  <l>So when you ſay, the King's kill'd, 'tis not meant</l>
+                  <l>By <hi>Bradſhaw,</hi> but by my Lord Preſident.</l>
+                  <l>Their Labouring Souls firſt bring forth Miſchief, then</l>
+                  <l>They Chriſtn'd after it was caſt; ſo when</l>
+                  <l>Rape, Murther, Sacriledge, call'd that Pious Hector</l>
+                  <l>Their God-Son, Butcher <hi>Cromwel,</hi> Lord Protector.</l>
+                  <pb n="4" facs="tcp:66151:3"/>
+                  <l>Cowards oth' Rump were Worthies: <hi>Fleetwood</hi> thus</l>
+                  <l>From's Valour ſcorn'd to be call'd Valourous.</l>
+                  <l>See what an Act of Parliament can do!</l>
+                  <l>If they but Vote him Valourous, he is ſo:</l>
+                  <l>For though the ſniveling Sinner deſerv'd banging,</l>
+                  <l>For he had ne'r the wit to merit hanging.</l>
+                  <l>Strange Operation of the Rump, the Fool</l>
+                  <l>The Devil, he's but Clerk to their Cloſe-ſtool.</l>
+                  <l>For the Rumpiſh Members Honour, I think fit</l>
+                  <l>We Act that Member firſt of all ſhould ſit.</l>
+                  <l>I like this topſy-turvy, we'l be led</l>
+                  <l>By <hi>England,</hi> and the Arſe ſhall be the Head:</l>
+                  <l>And next Thanksgiving-dinner, our <hi>Old Nick</hi>
+                  </l>
+                  <l>Shall feed on Rump, 'twill make him Politick.</l>
+                  <l>We'l Knight it, if your Judgments be like mine,</l>
+                  <l>It ſhall be Sir Rump, we'l have no more Sir Loyn.</l>
+                  <l>They ſhould be welcom all, but that I fear</l>
+                  <l>They would preſcribe new Models to us here:</l>
+                  <l>They merit not this place alone, but well</l>
+                  <l>Do for themſelves deſerve another Hell.</l>
+                  <l>But 'cauſe here are not all, till th' other pleaſe</l>
+                  <l>To come, let's Entertain and Honour theſe.</l>
+                  <l>In the mean time, that <hi>Bradſhaw</hi> may Inherit</l>
+                  <l>Preſent Poſſeſſion of his former Merit,</l>
+                  <l>To him as Rump oth' Rump let us preſent</l>
+                  <l>The Chair, for he was ſtill their Fundament.</l>
+                  <l>If you think fit, all I'de have you do,</l>
+                  <l>'S to ſpeak your mind then in a word or two.</l>
+               </sp>
+               <stage>Applaudunt Omnes.</stage>
+               <sp>
+                  <l>Becauſe thou'ſt done ſo ill, thou haſt done well;</l>
+                  <l>
+                     <hi>Bradſhaw,</hi> thou art Lord Preſident of Hell.</l>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:66151:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
